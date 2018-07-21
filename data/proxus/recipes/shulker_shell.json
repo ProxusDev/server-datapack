@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "#T#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nautilus_shell"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        },
+        "T": {
+            "item": "minecraft:turtle_helmet"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 10
+    }
+}
