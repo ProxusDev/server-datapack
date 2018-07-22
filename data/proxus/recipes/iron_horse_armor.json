@@ -1,0 +1,15 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:saddle"
+        },
+        {
+            "item": "minecraft:iron_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_horse_armor",
+        "count": 10
+    }
+}
