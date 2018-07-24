@@ -1,22 +1,18 @@
 ﻿{
-    "type": "crafting_shaped",
-    "pattern": [
-        "#C",
-        " F"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:egg"
+   "type": "crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "minecraft:egg"
         },
-        "C": {
-            "item": "minecraft:cactus_green"
+        {
+           "item": "minecraft:cactus_green"
         },
-        "F": {
+        {
             "item": "minecraft:fermented_spider_eye"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:slime_ball",
-        "count": 10
+        "count": 1
     }
 }
