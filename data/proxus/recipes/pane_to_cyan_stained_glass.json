@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "stained_glass",
+  "pattern": [
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:cyan_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "minecraft:cyan_stained_glass",
+    "count": 1
+  }
+}
