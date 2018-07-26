@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:bottle"
+            "item": "minecraft:glass_bottle"
         },
         "L": {
             "item": "minecraft:lapis_block"
