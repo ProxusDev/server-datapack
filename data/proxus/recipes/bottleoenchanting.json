@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GSG",
+        "BZB",
+        "ZBZ"
+    ],
+    "key": {
+        "Z": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:bone"
+        },
+        "G": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:glass"
+        }
+	},
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+    }
+}
