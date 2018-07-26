@@ -1,6 +1,7 @@
 {
-	"replace": false,
 	"values": [
-		"proxus:loop"
+		"proxus:infinidirt/main",
+		"proxus:infinidirt/craft",
+		"proxus:slimeballs/craft"
 	]
 }
