@@ -10,7 +10,7 @@
             "item": "minecraft:glass_bottle"
         },
         "L": {
-            "item": "minecraft:lapis_block"
+            "item": "minecraft:enchanted_book"
         },
     "result": {
         "item": "minecraft:experience_bottle",
