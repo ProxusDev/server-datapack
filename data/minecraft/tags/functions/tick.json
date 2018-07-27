@@ -1,6 +1,8 @@
 {
-	"replace": false,
 	"values": [
-		"#singleplayersleep:tick"
+		"proxus:infinidirt/main",
+		"proxus:infinidirt/craft",
+		"proxus:slimeballs/craft",
+		"proxus:singleplayersleep/loop"
 	]
 }
