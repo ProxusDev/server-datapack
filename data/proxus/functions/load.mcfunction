@@ -1,6 +1,6 @@
 #First time load script
 
-/tellraw @a {"text":"[Server] Loaded the Proxus datapack!","color":"dark_gray"}
+tellraw @a {"text":"[Server] Loaded the Proxus datapack!","color":"dark_gray"}
 
 
 ###############################
