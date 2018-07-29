@@ -1,4 +1,4 @@
-﻿{
+{
     "type": "crafting_shaped",
     "pattern": [
         "###",
@@ -12,7 +12,7 @@
         "L": {
             "item": "minecraft:enchanted_book"
         }
-	},
+    },
     "result": {
         "item": "minecraft:experience_bottle",
         "count": 8
