@@ -1,16 +1,19 @@
-﻿{
+{
     "type": "crafting_shaped",
     "pattern": [
         " # ",
-        "RRR",
+        "RNR",
         " R "
     ],
     "key": {
         "#": {
-            "item": "minecraft:nether_quartz_ore"
+            "item": "minecraft:pumpkin"
         },
         "R": {
             "item": "minecraft:rotten_flesh"
+        },
+        "N": {
+            "item": "minecraft:nether_quartz_ore"
         }
     },
     "result": {
