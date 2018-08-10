@@ -1,7 +1,6 @@
 {
 	"values": [
 		"proxus:slimeballs/craft",
-		"proxus:singleplayersleep/loop",
 		"proxus:mobheaddrops/loop"
 	]
 }
