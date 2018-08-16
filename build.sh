@@ -13,6 +13,8 @@ fi
 if [ ! -d "out" ]; then
   mkdir out
 fi
+# Remove posibble older zips
+rm -f out/pack.zip
 # zip everything up into a pack
 zip -r out/pack.zip data pack.mcmeta
 # check for errors
