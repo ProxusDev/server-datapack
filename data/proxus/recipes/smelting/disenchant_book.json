@@ -1,0 +1,9 @@
+﻿{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:enchanted_book"
+    },
+    "result": "minecraft:book",
+    "experience": 1.1,
+    "cookingtime": 100
+}
