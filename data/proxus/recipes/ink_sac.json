@@ -1,15 +1,16 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:potion"
-        }
-    ],
-    "result": {
-        "item": "minecraft:ink_sac",
-        "count": 2
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion",
+      "tag": "{Potion:\"minecraft:water\"}"
+    },
+    {
+      "item": "minecraft:coal"
     }
+  ],
+  "result": {
+    "item": "minecraft:ink_sac",
+    "count": 2
+  }
 }
