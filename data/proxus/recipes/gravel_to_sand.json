@@ -1,34 +1,18 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:flint"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GFG",
+        "GGG"
     ],
+    "key": {
+        "G": {
+            "item": "minecraft:gravel"
+        },
+        "F": {
+            "item": "minecraft:flint"
+        }
+    },
     "result": {
         "item": "minecraft:sand",
         "count": 8

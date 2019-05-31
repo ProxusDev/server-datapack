@@ -1,34 +1,18 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:flint"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        },
-        {
-            "item": "minecraft:cobblestone"
-        }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CFC",
+        "CCC"
     ],
+    "key": {
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "F": {
+            "item": "minecraft:flint"
+        }
+    },
     "result": {
         "item": "minecraft:gravel",
         "count": 8
