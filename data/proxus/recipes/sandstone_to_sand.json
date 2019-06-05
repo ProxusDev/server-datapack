@@ -1,15 +1,12 @@
-﻿{
-    "type": "crafting_shaped",
-    "pattern": [
-        "#"
-    ],
-    "key": {
-        "#": {
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
             "item": "minecraft:sandstone"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:sand",
-        "count": 4
+        "count": 1
     }
 }
