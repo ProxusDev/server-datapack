@@ -3,4 +3,4 @@ This is where our datapack lives. You can propose changes by opening a [pull req
 
 Information about the recipes can be found in [The wiki](https://wiki.proxus.co)
 
-Thanks to [The contributors](https://github.com/ProxusDev/server-datapack/graphs/contributors)!
+Thanks to [the contributors](https://github.com/ProxusDev/server-datapack/graphs/contributors?type=a)!
