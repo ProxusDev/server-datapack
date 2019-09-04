@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "minecraft:entities/reference/extra/shulker"
+          "name": "minecraft:entities/reference/mmh/shulker"
         }
       ]
     },
