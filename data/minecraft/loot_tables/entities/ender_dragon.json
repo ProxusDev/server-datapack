@@ -24,21 +24,19 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:elytra",
-                    "weight": 1
+                    "name": "minecraft:dragon_head"
                 }
             ]
         },
-        {
+		{
             "rolls": 1,
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:dragon_egg",
-                    "weight": 1
+                    "name": "minecraft:dragon_egg"
                 }
             ]
         }
     ]
-}
+}	
 
