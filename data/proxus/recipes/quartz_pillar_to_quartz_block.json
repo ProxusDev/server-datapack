@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:smooth_sandstone"
+            "item": "minecraft:quartz_pillar"
         }
     ],
     "result": {
-        "item": "minecraft:sand",
-        "count": 4
+        "item": "minecraft:quartz_block",
+        "count": 1
     }
 }
