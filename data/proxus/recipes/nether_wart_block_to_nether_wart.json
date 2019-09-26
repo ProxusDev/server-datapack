@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:smooth_sandstone"
+            "item": "minecraft:nether_wart_block"
         }
     ],
     "result": {
-        "item": "minecraft:sand",
+        "item": "minecraft:nether_wart",
         "count": 4
     }
 }
