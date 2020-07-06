@@ -32,7 +32,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:\"e206ac29-ae69-475b-909a-fb523d894336\",Name:\"Red Mooshroom\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBiYzYxYjk3NTdhN2I4M2UwM2NkMjUwN2EyMTU3OTEzYzJjZjAxNmU3YzA5NmE0ZDZjZjFmZTFiOGRiIn19fQ==\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1043345433,-1915205024,-1319783024,1345020847],Name:\"Red Mooshroom\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE4MDYwNmU4MmM2NDJmMTQxNTg3NzMzZTMxODBhZTU3ZjY0NjQ0MmM5ZmZmZDRlNTk5NzQ1N2UzNDMxMWEyOSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -51,7 +51,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:\"35f9d5cc-3858-457b-99b1-53fae07f2968\",Name:\"Brown Mooshroom\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUwMTcwOGUyYzAwYTYwNWE5ODhjNDE5YWY3MGMxNjE3Y2U1Njg4NjI4Yjc0MTNjZmQzNzAzOGVjMDIyMWFiYyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1343259795,-414497460,-2098198200,-2128852243],Name:\"Brown Mooshroom\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U2NDY2MzAyYTVhYjQzOThiNGU0NzczNDk4MDhlNWQ5NDAyZWEzYWQ4ZmM0MmUyNDQ2ZTRiZWQwYTVlZDVlIn19fQ==\"}]}}}"
                 }
               ],
               "conditions": [
