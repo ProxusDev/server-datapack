@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:basalt"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:basalt"
+        }
+    ],
+    "result": {
+        "item": "minecraft:blackstone",
+        "count": 1
+    }
+}
